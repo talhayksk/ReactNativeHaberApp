@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "HaberApp",
+    "slug": "HaberApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "HaberApp"
+}
