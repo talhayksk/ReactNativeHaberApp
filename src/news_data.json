@@ -1,0 +1,45 @@
+[
+    {
+        "id":0,
+        "author":"Talha Yüksek",
+        "title":"Askerler, Marmaris'teki orman yangınında alevlerin ortasında kaldı",
+        "description":"Marmaris ilçesi Armutalan bölgesindeki yangına müdahale etmek için giden kahraman askerler, bir anda alevlerin ortasında kaldı. O anlar kayda alınırken, bir askeri kurtarma çabaları yürek dağladı.",
+        "imageUrl": "https://icdn.ensonhaber.com/resimler/diger/kok/2021/08/01/mugla-askerler_3693.jpg"
+    },
+    {
+        "id":1,
+        "author":"Talha Yüksek",
+        "title":"Ege Denizi Datça açıklarında deprem",
+        "description":"Ege Denizi'nde Muğla'nın Datça ilçesi açıklarında saat 07.31'de 5.5 büyüklüğünde deprem meydana geldi..",
+        "imageUrl": "https://icdn.ensonhaber.com/resimler/diger/kok/2021/08/01/deprem-datca_1634.jpg"
+    },
+    {
+        "id":2,
+        "author":"Talha Yüksek",
+        "title":"40’tan fazla ülkede ormanlar alev alev",
+        "description":"Amerikan Havacılık ve Uzay Dairesi’nin (NASA) uydu haritasına göre Afrika, Amerika ve Avrupa başta olmak üzere dünyanın hemen hemen her yerinde yangınla mücadele sürüyor.",
+        "imageUrl": "https://icdn.ensonhaber.com/resimler/diger/kok/2021/08/01/aa_7448.jpg"
+    },
+    {
+        "id":3,
+        "author":"Talha Yüksek",
+        "title":"31 Temmuz Türkiye'de koronavirüs tablosu",
+        "description":"Türkiye'de koronavirüs salgınında bugün 22 bin 332 yeni vaka tespit edilirken, 79 vatandaşımız da yaşamını yitirdi.",
+        "imageUrl": "https://icdn.ensonhaber.com/resimler/diger/kok/2021/07/31/korona_2451.jpg"
+    },
+    {
+        "id":4,
+        "author":"Talha Yüksek",
+        "title":"Antalya ve Adana'dan alevlerin ardından yürek yakan manzaralar",
+        "description":"Antalya'nın Manavgat ilçesinde çarşamba günü öğle saatlerinde 4 farklı noktada başlayan yangına müdahale sürüyor. Yangının yol açtığı yıkım ise havadan görüntülendi.",
+        "imageUrl": "https://icdn.ensonhaber.com/resimler/diger/kok/2021/07/31/antalya_4847.jpg"
+    },
+    {
+        "id":5,
+        "author":"Talha Yüksek",
+        "title":"Kaddafi'nin oğlu Seyfülislam Kaddafi yıllar sonra ortaya çıktı",
+        "description":"10 yıl sonra ilk kez röportaj veren Seyfülislam Kaddafi, ülkesindeki yönetimi ele almak için geri dönmeye hazır olduğunu söyledi.",
+        "imageUrl": "https://icdn.ensonhaber.com/resimler/diger/kok/2021/08/01/kaddafi_1343.jpg"
+    }
+
+]
